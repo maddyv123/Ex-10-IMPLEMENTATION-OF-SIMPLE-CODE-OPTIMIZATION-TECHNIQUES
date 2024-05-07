@@ -1,5 +1,7 @@
 # Ex-10-IMPLEMENTATION-OF-SIMPLE-CODE-OPTIMIZATION-TECHNIQUES
 IMPLEMENTATION OF SIMPLE CODE OPTIMIZATION TECHNIQUES 
+# Name:Mathavan V
+# Register No:212223110026
 # Date:
 # Aim:
 To write a C program to implement simple code optimization techniques such as Common subexpression elimination and Dead Code elimination.
